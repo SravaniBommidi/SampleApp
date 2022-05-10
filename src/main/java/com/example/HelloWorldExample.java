@@ -9,7 +9,6 @@ public class HelloWorldExample extends HttpServlet
   public void service( HttpServletRequest req, HttpServletResponse res ) throws IOException {
     PrintWriter out = res.getWriter();
     out.println( "Hello, Wowerrrld hi!" );
-    out.println( "Hello, World hi!" );
-    out.close();
+       out.close();
   }
 }
