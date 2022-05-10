@@ -2,9 +2,4 @@
 Sample app for testing
 git pull checking by using these file
 again checking 
-asff
-
-main dile
-the fileb gituds
-
-testing m
+Again checking by using this file again
